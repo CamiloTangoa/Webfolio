@@ -1,0 +1,16 @@
+:root {
+    --darkest-blue: #03254c;
+    --dark-blue: #1167b1;
+    --blue: #187bcd;
+    --light-blue: #2a9df4;
+    --white-blue: #d0efff;
+    --white: #FFFFFF;
+}
+
+body {
+    all: unset;
+}
+
+html {
+    box-sizing: border-box;
+}
