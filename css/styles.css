@@ -14,3 +14,10 @@ body {
 html {
     box-sizing: border-box;
 }
+
+.nav-bar {
+    background: var(--darkest-blue);
+    color: var(--white);
+    display: flex;
+    height: 8vh;
+}
