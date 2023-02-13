@@ -22,3 +22,7 @@ html {
     display: flex;
     height: 8vh;
 }
+
+.nav-bar__left-item {
+    padding-left: 0.8rem;
+}
