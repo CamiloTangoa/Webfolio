@@ -18,9 +18,11 @@ html {
 
 .nav-bar {
     background: var(--darkest-blue);
+    border-bottom: solid var(--dark-blue) 0.30rem;
     color: var(--white);
     display: flex;
-    height: 8vh;
+    height: 4rem;
+    position: sticky;
 }
 
 .nav-bar__left-item {
@@ -30,6 +32,7 @@ html {
 .nav-bar__right-item {
     padding: 0 0.8rem;
 }
+
 .push {
     margin-left: auto;
 }
