@@ -21,7 +21,7 @@ html {
     border-bottom: solid var(--dark-blue) 0.30rem;
     color: var(--white);
     display: flex;
-    height: 4rem;
+    height: 8vh;
     position: sticky;
 }
 
@@ -35,4 +35,9 @@ html {
 
 .push {
     margin-left: auto;
+}
+
+.welcome {
+    background-color: var(--blue);
+    height: 92vh;
 }
