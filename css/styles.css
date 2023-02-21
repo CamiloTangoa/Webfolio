@@ -23,6 +23,7 @@ html {
     display: flex;
     height: 8vh;
     position: sticky;
+    top: 0;
 }
 
 .nav-bar__left-item {
