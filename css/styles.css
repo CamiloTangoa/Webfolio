@@ -42,3 +42,11 @@ html {
     background-color: var(--blue);
     height: 92vh;
 }
+
+.welcome__text {
+    color: var(--white);
+    margin: 0;
+    padding-top: 5rem;
+    size: 1rem;
+    text-align: center;
+}
