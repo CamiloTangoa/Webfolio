@@ -8,6 +8,10 @@
     --black: #000000;
 }
 
+body {
+    margin: 0;
+}
+
 html {
     box-sizing: border-box;
 }
