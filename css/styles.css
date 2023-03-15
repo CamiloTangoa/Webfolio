@@ -12,6 +12,10 @@ body {
     margin: 0;
 }
 
+.about-me {
+    margin: 4rem;
+}
+
 .nav-bar {
     background: var(--darkest-blue);
     border-bottom: solid var(--dark-blue) 0.30rem;
@@ -33,7 +37,12 @@ body {
 
 .welcome {
     background-color: var(--blue);
-    height: 92vh;
+    height: 52vh;
+}
+
+.welcome > img {
+    height: 200px;
+    width: 200px;
 }
 
 .welcome__text {
